@@ -1,4 +1,4 @@
-If you wanna know how to make a chatbot, then this is it.
+If you wanna know how to make a chatbot, specifically using a free model in a free setup, then this is it.
 
 Download the pdf file here and,
 
